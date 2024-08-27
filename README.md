@@ -1,7 +1,7 @@
 # Portfolio of Faris Aljohari
 
-<img src ="https://github.com/CodeFaris/CodeFaris/blob/5920a79f4c5977332a67caf91125241cf0fc46b5/www.FarisAljohari.in.png" />
- 
+ ![image](https://github.com/user-attachments/assets/f7b8c636-239e-4cb2-9d12-abf7bc2172ed)
+
 This project was created with CRA (Create React App)
 
 This is my portfolio website to introduce myself, here I put my skills, projects, and contact details.
